@@ -36,6 +36,8 @@ Initial reconnaissance was performed using Nmap to identify open ports and servi
 
 Command used:
 
+nmap <target-ip>
+
 nmap -sV <target-ip>
 
 An aggressive scan was also performed to gather additional service information.
